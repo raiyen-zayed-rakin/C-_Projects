@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676460835 source:d:\aiub coding\c++ projects\library management system\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677343509 source:d:\aiub coding\c++ projects\calculator udoy2\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
